@@ -42,7 +42,7 @@
 
 <li><a target="_blank" href="https://github.com/manjunath5496/Matching-Task-Paper-Reading-List/blob/master/mat(21).pdf" style="text-decoration:none;">Managing Diversity in Airbnb Search</a></li>
 <li><a target="_blank" href="https://github.com/manjunath5496/Matching-Task-Paper-Reading-List/blob/master/mat(22).pdf" style="text-decoration:none;">Graph Learning Approaches to Recommender Systems: A Review</a></li> 
- <li><a target="_blank" href="https://github.com/manjunath5496/Matching-Task-Paper-Reading-List/blob/master/mat(23).pdf" style="text-decoration:none;">ColBERT: Eicient and Effective Passage Search via Contextualized Late Interaction over BERT</a></li> 
+ <li><a target="_blank" href="https://github.com/manjunath5496/Matching-Task-Paper-Reading-List/blob/master/mat(23).pdf" style="text-decoration:none;">ColBERT: Efficient and Effective Passage Search via Contextualized Late Interaction over BERT</a></li> 
  
 
    <li><a target="_blank" href="https://github.com/manjunath5496/Matching-Task-Paper-Reading-List/blob/master/mat(24).pdf" style="text-decoration:none;">Learning Robust Models for e-Commerce Product Search</a></li>
